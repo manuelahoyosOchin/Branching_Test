@@ -1,2 +1,3 @@
 This is my first file for the branching test repo
 This is an update made from Github
+Now I am going to make this update on a second branch
